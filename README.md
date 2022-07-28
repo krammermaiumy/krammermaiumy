@@ -1,6 +1,5 @@
 #SOBRE MIM
 
-
 - 👋 Olá,meu nome é @krammermaiumy
 - Meu email de contato é maiumy.deus@escola.pr.gov.br
 -  Eu estou interessada em aprender a programar novas linguagens.
